@@ -1,0 +1,94 @@
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3em;
+  font-weight: bold;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+
+body {
+  color: pink;
+  background-color: rgb(128, 189, 171);
+  text-align: center;
+  line-height: 1.5;
+  font-family: sans-serif;
+  font-weight: bold;
+  margin: 0 auto;
+  width: 1400px;
+}
+
+
+
+a {
+  color: rgb(128, 189, 171);
+  text-align: center;
+  line-height: 1.5;
+  font-family: sans-serif;
+  font-weight: bold;
+  margin: 0 auto;
+
+}
+
+ul {
+  color: 80BDAB;
+  margin: 0 auto;
+  text-align: center;
+  font-weight: bold;
+}
+
+.card {
+  background-color: black;
+  margin: 50px;
+  box-shadow: 10px 10px 5px #233523;
+  border-radius: 5px;
+}
+
+.iconos {
+  background-color: black;
+  margin: 50px;
+
+}
+
+.container {
+  margin: 0 auto;
+  text-align: center;
+  font-weight: bold;
+  margin: 30px;
+  margin-right: 400;
+  margin-left: 400;
+
+}
+
+#imagendeperfil {
+  border-radius: 50%
+}
+
+.iconos {
+  font-size: 32px;
+  box-shadow: 10px 10px 5px #233523;
+  border-radius: 5px;
+}
+
+ul li {
+  list-style-type: none;
+  padding-left: 0px;
+  padding: 0px 0px;
+  display: inline-block;
+  margin: 20px
+}
+
+a:hover {
+  background-color: pink;
+  color: black;
+  transition: background-color 0.7s;
+}
+
+#botondeverga{
+  line-height: 1.5;
+  font-weight: bold;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+}
